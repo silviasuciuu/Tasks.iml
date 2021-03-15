@@ -1,0 +1,7 @@
+
+=
+java:S2885" Make "sdf" an instance variable.(¸‰ˆí8¦ÊÔÅ‚/
+v
+java:S2975³"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(®Ç‹¹şÿÿÿÿ8¦ÊÔÅ‚/
+t
+java:S3776b"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Î¥­üÿÿÿÿ8¦ÊÔÅ‚/

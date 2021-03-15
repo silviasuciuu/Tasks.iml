@@ -1,0 +1,9 @@
+
+T
+java:S1444"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿ8â®•ƒ/
+z
+java:S1104"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿ8â®•ƒ/
+Q
+java:S1444"4Make this "public static savedTasksFile" field final(¼Çü¦8áŸ¯•ƒ/
+w
+java:S1104"ZMake savedTasksFile a static final constant or non-public and provide accessors if needed.(¼Çü¦8áŸ¯•ƒ/

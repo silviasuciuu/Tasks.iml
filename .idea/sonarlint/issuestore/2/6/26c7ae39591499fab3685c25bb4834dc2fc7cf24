@@ -1,0 +1,57 @@
+
+P
+java:S1128"4Remove this unused import 'org.apache.log4j.Logger'.(ñè½8Ô¬°“ƒ/
+Y
+java:S1128"7Remove this unused import 'tasks.model.LinkedTaskList'.(”Ìºèøÿÿÿÿ8ÉÛÔ“ƒ/
+x
+java:S1104"VMake taskIORepo a static final constant or non-public and provide accessors if needed.(˜Éøúÿÿÿÿ8§›Ì“ƒ/
+R
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8îíĞ“ƒ/
+R
+java:S1444"0Make this "public static taskIORepo" field final(˜Éøúÿÿÿÿ8ò®Ş“ƒ/
+T
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8Ô¬°“ƒ/
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ğœê†úÿÿÿÿ8Àà“ƒ/
+L
+java:S2440"*Remove this instantiation of "TaskIORepo".(˜Éøúÿÿÿÿ8ºÕ¢”ƒ/
+R
+java:S2209"5Change this instance-reference to a static reference.(ßª¸“8ºÕ¢”ƒ/
+R
+java:S2209"5Change this instance-reference to a static reference.(»«ï±8ºÕ¢”ƒ/
+R
+java:S2209"5Change this instance-reference to a static reference.(¨±óÊ8ºÕ¢”ƒ/
+W
+java:S2209!"5Change this instance-reference to a static reference.(¹††Æùÿÿÿÿ8ºÕ¢”ƒ/
+R
+java:S2209%"5Change this instance-reference to a static reference.(ßª¸“8ºÕ¢”ƒ/
+R
+java:S2209*"5Change this instance-reference to a static reference.(»«ï±8ºÕ¢”ƒ/
+W
+java:S2209/"5Change this instance-reference to a static reference.(ğ¿ôìøÿÿÿÿ8ºÕ¢”ƒ/
+W
+java:S22094"5Change this instance-reference to a static reference.(Û®¤–ûÿÿÿÿ8ºÕ¢”ƒ/
+R
+java:S22099"5Change this instance-reference to a static reference.(éüúä8ºÕ¢”ƒ/
+Q
+java:S2209>"5Change this instance-reference to a static reference.(ß8ºÕ¢”ƒ/
+W
+java:S2209B"5Change this instance-reference to a static reference.(Áé Ñûÿÿÿÿ8ºÕ¢”ƒ/
+W
+java:S2209G"5Change this instance-reference to a static reference.(¡Æàıÿÿÿÿ8ºÕ¢”ƒ/
+R
+java:S2209M"5Change this instance-reference to a static reference.(ÔÉ­º8ºÕ¢”ƒ/
+Q
+java:S2209Q"5Change this instance-reference to a static reference.(àÎâ&8ºÕ¢”ƒ/
+W
+java:S2209V"5Change this instance-reference to a static reference.(Ã¤éúÿÿÿÿ8ºÕ¢”ƒ/
+X
+java:S11448"6Remove this unused private "getTaskFromString" method.(ì¯Øşÿÿÿÿ8ºÕ¢”ƒ/
+Z
+java:S1144="8Remove this unused private "getIntervalFromText" method.(œÂÁñøÿÿÿÿ8ºÕ¢”ƒ/
+Q
+java:S1144A"4Remove this unused private "getDateFromText" method.(£†Ê™8ºÕ¢”ƒ/
+Q
+java:S1144F"5Remove this unused private "getTitleFromText" method.(šœšU8ºÕ¢”ƒ/
+R
+java:S1144L"5Remove this unused private "getFormattedTask" method.(˜üÜ£8ºÕ¢”ƒ/
