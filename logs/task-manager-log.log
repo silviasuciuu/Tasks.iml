@@ -1,0 +1,50 @@
+2021-02-14 23:16:21 INFO  Main:38 - saved data reading
+2021-02-14 23:16:21 INFO  Main:43 - application start
+2021-02-14 23:16:22 INFO  Controller:75 - Main controller initializing
+2021-02-14 23:16:55 INFO  Main:38 - saved data reading
+2021-02-14 23:16:55 INFO  Main:43 - application start
+2021-02-14 23:16:55 INFO  Controller:75 - Main controller initializing
+2021-02-14 23:16:59 INFO  NewEditController:91 - new/edit window initializing
+2021-02-17 09:36:41 INFO  Main:38 - saved data reading
+2021-02-17 09:36:41 INFO  Main:43 - application start
+2021-02-17 09:36:42 INFO  Controller:75 - Main controller initializing
+2021-02-17 09:36:50 INFO  NewEditController:91 - new/edit window initializing
+2021-03-10 20:20:34 INFO  Main:38 - saved data reading
+2021-03-10 20:20:34 INFO  Main:43 - application start
+2021-03-10 20:20:35 INFO  Controller:75 - Main controller initializing
+2021-03-10 20:21:14 INFO  NewEditController:91 - new/edit window initializing
+2021-03-14 18:47:39 INFO  Main:38 - saved data reading
+2021-03-14 18:47:39 INFO  Main:43 - application start
+2021-03-14 18:47:40 INFO  Controller:75 - Main controller initializing
+2021-03-14 18:47:48 INFO  NewEditController:91 - new/edit window initializing
+2021-03-14 18:48:42 INFO  NewEditController:91 - new/edit window initializing
+2021-03-14 18:48:45 INFO  NewEditController:91 - new/edit window initializing
+2021-03-14 18:48:54 INFO  NewEditController:91 - new/edit window initializing
+2021-03-14 18:48:58 INFO  NewEditController:91 - new/edit window initializing
+2021-03-14 22:58:04 INFO  Main:38 - saved data reading
+2021-03-14 22:59:32 INFO  Main:38 - saved data reading
+2021-03-14 23:00:30 INFO  Main:38 - saved data reading
+2021-03-14 23:00:30 ERROR TaskIO:90 - IO exception reading or writing file
+2021-03-14 23:00:30 INFO  Main:43 - application start
+2021-03-14 23:00:31 INFO  Controller:75 - Main controller initializing
+2021-03-14 23:04:02 INFO  Main:38 - saved data reading
+2021-03-14 23:04:02 INFO  Main:43 - application start
+2021-03-14 23:04:02 INFO  Controller:75 - Main controller initializing
+2021-03-14 23:06:57 INFO  Main:38 - saved data reading
+2021-03-14 23:06:57 INFO  Main:43 - application start
+2021-03-14 23:06:58 INFO  Controller:75 - Main controller initializing
+2021-03-14 23:07:07 INFO  Main:38 - saved data reading
+2021-03-14 23:07:07 INFO  Main:43 - application start
+2021-03-14 23:07:08 INFO  Controller:75 - Main controller initializing
+2021-03-14 23:07:12 INFO  NewEditController:91 - new/edit window initializing
+2021-03-14 23:13:17 INFO  Main:38 - saved data reading
+2021-03-14 23:13:17 INFO  Main:43 - application start
+2021-03-14 23:13:17 INFO  Controller:75 - Main controller initializing
+2021-03-14 23:13:20 INFO  NewEditController:91 - new/edit window initializing
+2021-03-14 23:13:32 INFO  NewEditController:91 - new/edit window initializing
+2021-03-14 23:14:43 INFO  Main:38 - saved data reading
+2021-03-14 23:14:43 INFO  Main:43 - application start
+2021-03-14 23:14:44 INFO  Controller:75 - Main controller initializing
+2021-03-14 23:37:13 INFO  Main:38 - saved data reading
+2021-03-14 23:37:13 INFO  Main:43 - application start
+2021-03-14 23:37:14 INFO  Controller:75 - Main controller initializing
